@@ -21,6 +21,10 @@
 | DCL  | Quyền truy cập      | `GRANT`, `REVOKE`                      |
 | TCL  | Transaction         | `COMMIT`, `ROLLBACK`                   |
 
+> Thứ tự thực hiện trong câu lệnh SQL:
+>
+> **FROM** -> **ON** -> **JOIN** -> **WHERE** -> **GROUP BY** -> **HAVING** -> **SELECT** -> **DISTINCT** -> **ORDER BY** -> **LIMIT/OFFSET(TOP)**
+
 1. SELECT – Truy vấn dữ liệu
 
 ```sql
@@ -37,15 +41,15 @@ SELECT name, age FROM users WHERE age > 20 ORDER BY age DESC;
 
 3. JOIN – Kết nối bảng
 
-***Các loại join: ***
+    *Các loại join:*
 
-- INNER JOIN: chỉ lấy trùng
+    - INNER JOIN: chỉ lấy trùng
 
-- LEFT JOIN: lấy tất cả bên trái
+    - LEFT JOIN: lấy tất cả bên trái
 
-- RIGHT JOIN: lấy tất cả bên phải
+    - RIGHT JOIN: lấy tất cả bên phải
 
-- FULL JOIN: lấy tất cả 2 bên
+    - FULL JOIN: lấy tất cả 2 bên
 
 4. Subquery – Truy vấn lồng
 
