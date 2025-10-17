@@ -6,5 +6,5 @@ VD:
 ```sh
     git submodule add https://github.com/anh0701/express-in-ts.git .\story\express-with-ts
 ```
-- lần đầu tiên nó sẽ clone dữ liệu xuống folder local mình dẫn tới
+<!-- - lần đầu tiên nó sẽ clone dữ liệu xuống folder local mình dẫn tới -->
   
