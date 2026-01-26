@@ -33,5 +33,3 @@
 3. PID là gì
 
 4. Sensor: ultrasonic, IR, limit switch
-
-
