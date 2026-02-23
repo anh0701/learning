@@ -1,3 +1,9 @@
+---
+layout: default
+title: File Nháp
+nav_exclude: true
+---
+
 # OOP
 
 1. Tính chất của OOP 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: File Nháp
+nav_exclude: true
+---
+
 # new word
 
 | Word              | Pronunciation | Meaning |

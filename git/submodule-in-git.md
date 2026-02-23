@@ -1,3 +1,9 @@
+---
+layout: default
+title: File Nháp
+nav_exclude: true
+---
+
 # Cú pháp
 ```sh
     git submodule add  URL-REPO URL-LOCAL

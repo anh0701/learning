@@ -1,3 +1,9 @@
+---
+layout: default
+title: File Nháp
+nav_exclude: true
+---
+
 - Sắp xếp chèn (Insertion Sort):
 Ý tưởng: Thuật toán này lấy cảm hứng từ việc chơi bài, khi người chơi “chèn” thêm một quân bài mới vào bộ bài đã được sắp xếp trên tay.
 Cách hoạt động: Tại bước thứ k, đưa phần tử thứ k trong mảng vào đúng vị trí trong dãy gồm k phần tử đầu tiên.

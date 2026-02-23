@@ -1,3 +1,9 @@
+---
+layout: default
+title: File Nháp
+nav_exclude: true
+---
+
 <center>  <h1>  About Java language  </h1> </center>
 
 ## 1. Table of Contents

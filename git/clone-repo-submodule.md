@@ -1,3 +1,9 @@
+---
+layout: default
+title: File Nháp
+nav_exclude: true
+---
+
 ## problem
 - when clone repo workspace, submodule folder null
 

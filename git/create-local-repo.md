@@ -1,3 +1,9 @@
+---
+layout: default
+title: File Nháp
+nav_exclude: true
+---
+
 # create folder/project in local before create repo in github
 1. Problem
    - create folder/project in computer

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Embedded core
+nav_order: 2
+description: ""
+---
+
 # Embedded core
 
 ## Vi điều khiển (MCU)

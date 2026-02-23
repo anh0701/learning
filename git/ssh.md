@@ -1,3 +1,9 @@
+---
+layout: default
+title: File Nháp
+nav_exclude: true
+---
+
 - ssh
 - ssh-keygen
 - ssh-agent

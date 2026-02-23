@@ -1,3 +1,9 @@
+---
+layout: default
+title: File Nháp
+nav_exclude: true
+---
+
 # problem
 - no push code: maybe child directory have folder .git => move it
 

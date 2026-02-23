@@ -1,3 +1,9 @@
+---
+layout: default
+title: File Nháp
+nav_exclude: true
+---
+
 1. gen key:
 ```
     ssh-keygen -t rsa -f ~/.ssh ghk_aya                         
