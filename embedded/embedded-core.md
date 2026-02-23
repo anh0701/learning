@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Embedded core
+title: 21. Embedded core
 nav_order: 2
 description: ""
 ---
