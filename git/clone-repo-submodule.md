@@ -5,10 +5,11 @@ nav_exclude: true
 ---
 
 ## problem
+
 - when clone repo workspace, submodule folder null
 
-
 ## resolve
+
 - run command:
 
 ```sh

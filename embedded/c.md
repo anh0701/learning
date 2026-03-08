@@ -27,6 +27,7 @@ Pointer   →  Địa chỉ
 1. Pointer + malloc/free (heap vs stack)
 
 - stack:
+
     - tự động cấp phát
     - nhanh
     - hết scope là biến chết
@@ -42,6 +43,7 @@ Pointer   →  Địa chỉ
     ```
 
 - heap:
+
     - cấp phát thủ công
     - sống cho đến khi **free**
     - dùng cho dữ liệu lớn/sống lâu

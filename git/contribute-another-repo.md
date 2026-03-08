@@ -4,7 +4,7 @@ title: File Nháp
 nav_exclude: true
 ---
 
-# contribute another repo  
+# contribute another repo
 
 - git merge => current branch + part of future branch
   

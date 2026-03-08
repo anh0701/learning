@@ -51,15 +51,15 @@ nav_exclude: true
 
 - 
 
-9.  Kể tên một số loại hình khác nhau của Streams
+9. Kể tên một số loại hình khác nhau của Streams
 
 -
 
-10.   Bạn hiểu như nào về Flutter SDK
+10. Bạn hiểu như nào về Flutter SDK
 
 - là bộ công cụ phát triển giao diện người dùng đa nền tảng
 
-11.  Sự khác nhau giữa Hot reload và hot restart
+11. Sự khác nhau giữa Hot reload và hot restart
 
 - Hot reload: không chạy lại hàm main(), initState(), sử dụng trong chế độ debug, cho phép thấy thay đổi ngay sau khi sửa lỗi, xây dựng giao diện người dùng và thêm tính năng mà không cần chạy lại ứng dụng từ đầu
 - Hot restart: xóa trạng thái của ứng dụng, đặt lại trạng thái mặc định

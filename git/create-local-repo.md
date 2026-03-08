@@ -5,9 +5,10 @@ nav_exclude: true
 ---
 
 # create folder/project in local before create repo in github
+
 1. Problem
    - create folder/project in computer
-   - after create new repo 
+   - after create new repo
 2. Resolve
 
 ```sh
@@ -19,4 +20,4 @@ nav_exclude: true
    git add .
    git commit -m "..{messgae}.."
    git push origin main
-``` 
+```

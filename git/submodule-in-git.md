@@ -5,10 +5,13 @@ nav_exclude: true
 ---
 
 # Cú pháp
+
 ```sh
     git submodule add  URL-REPO URL-LOCAL
 ```
-VD: 
+
+VD:
+
 ```sh
     git submodule add https://github.com/anh0701/express-in-ts.git .\story\express-with-ts
 ```
